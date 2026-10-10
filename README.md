@@ -1,5 +1,8 @@
 # 🐧 Palmer Penguins: Species & Morphometric Analysis
 
+<img width="1401" height="731" alt="Ekran Resmi 2026-10-10 21 30 51" src="https://github.com/user-attachments/assets/cdbbde73-27c7-4d42-ac72-c967f4d2b7a0" />
+
+
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)](#)
@@ -37,3 +40,5 @@ This project covers the full data analysis lifecycle: **Data Cleaning & Explorat
 | Tool / Technology | Focus Area | Functional Role |
 | :--- | :--- | :--- |
 | **Python** (`pandas`, `matplotlib`, `seaborn`) | Data Pipeline & EDA | Data wrangling, missing value treatment, feature engineering, statistical distribution plots
+
+POWER BI LINK: https://app.powerbi.com/links/rAXfwYUm9f?ctid=647c584a-3f44-47e1-8242-8179421fea5a&pbi_source=linkShare
