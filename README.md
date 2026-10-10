@@ -1,6 +1,6 @@
 # 🐧 Palmer Penguins: Species & Morphometric Analysis
 
-<img width="1401" height="731" alt="Ekran Resmi 2026-10-10 21 30 51" src="https://github.com/user-attachments/assets/cdbbde73-27c7-4d42-ac72-c967f4d2b7a0" />
+<img width="1372" height="693" alt="Ekran Resmi 2026-10-10 21 32 40" src="https://github.com/user-attachments/assets/e1505f16-bd40-4fe5-bb4e-aa30e2a97c6a" />
 
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
